@@ -1,4 +1,4 @@
-import Gravatar from '../helpers/gravatar';
+import Gravatar from "../helpers/Gravatar";
 
 export default function TopBar({ starturl, user }) {
 
